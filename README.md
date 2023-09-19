@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Abhi </h1>
 <h3 align="center">A passionate Full-stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Node Internals, Running Microservices in node, Scaling node applications and much more ✌️**
-- 💬 Ask me about **react, javascript, data-structures, node**
+<!--🌱 I’m currently learning **Node Internals, Running Microservices in node, Scaling node applications and much more ✌️** -->
+💬 Ask me about **react, javascript, data-structures, node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
