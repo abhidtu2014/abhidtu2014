@@ -1,8 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Abhi </h1>
-<h3 align="center">A passionate Full-stack Developer from India</h3>
+<h3 align="center">A passionate Senior Software Engineer from India</h3>
 
-<!--🌱 I’m currently learning **Node Internals, Running Microservices in node, Scaling node applications and much more ✌️** -->
-💬 Ask me about **react, javascript, data-structures, node**
+<!--🌱 I’m currently learning **Node Internals, Running Microservices in node, Scaling node applications and much more ** -->
+
+A senior software engineer ✌️ with a proven track record of 7 years in building scalable applications on the front end using Next, React, and Vue, and robust backend services using Node. Implemented some quality products ground up with high ownership in a fast-paced environment. I started my professional career as a self-started individual contributor and love solving complex engineering problems. 
+
+Some interesting backend projects that I have worked on in the past:
+
+- Developing a wallet manager package for transaction management and integrating Solana broadcasting to enhance landing rates and support dynamic fees. My work has provided me with a comprehensive understanding of various wormhole protocols and the dynamics of multiple blockchain interactions, including engagement with smart contracts.
+
+- Worked on implementing remote code execution from scratch using Ignite(AWS firecracker) where we had to create multiple microVMs on a single compute engine instance to run any code in a fast, isolated (multitenancy), and secure environment.
+
+- Built complete off-chain tracking for Qwestive with work spanning across frontend and backend, like exposing client typescript SDK, relaying data into our ETL, and updating cloud firestore and a CRON job to index the data in MySQL.
+
+- Built reporting service in Node using koa.js framework that communicated with Kafka-node client and druid server to pull raw data, transform and load into CSV, and send the report, as an email attachment to the user asynchronously.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
