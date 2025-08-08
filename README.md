@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Abhi </h1>
-<h3 align="center">A passionate Senior Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <!--🌱 I’m currently learning **Node Internals, Running Microservices in node, Scaling node applications and much more ** -->
 
-A senior software engineer ✌️ with a proven track record of 7 years in building scalable applications on the front end using Next, React, and Vue, and robust backend services using Node. Implemented some quality products ground up with high ownership in a fast-paced environment. I started my professional career as a self-started individual contributor and love solving complex engineering problems. 
+A software engineer ✌️ with a proven track record of 7+ years in building scalable applications on the front end using Next, React, and Vue, and robust backend services using Node. Implemented some quality products ground up with high ownership in a fast-paced environment. I started my professional career as a self-started individual contributor and love solving complex engineering problems. 
 
 Some interesting backend projects that I have worked on in the past:
 
