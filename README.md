@@ -3,7 +3,7 @@
 
 <!--🌱 I’m currently learning **Node Internals, Running Microservices in node, Scaling node applications and much more ** -->
 
-A software engineer ✌️ with a proven track record of 7+ years in building scalable applications on the front end using Next, React, and Vue, and robust backend services using Node. Implemented some quality products ground up with high ownership in a fast-paced environment. I started my professional career as a self-started individual contributor and love solving complex engineering problems. 
+A software engineer ✌️ with a proven track record of 8+ years in building scalable applications on the front end using Next, React, and Vue, and robust backend services using Node. Implemented some quality products ground up with high ownership in a fast-paced environment. I started my professional career as a self-started individual contributor and love solving complex engineering problems. 
 
 Some interesting backend projects that I have worked on in the past:
 
